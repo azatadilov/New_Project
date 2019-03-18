@@ -10,7 +10,7 @@ public class New_Project {
             if(a <= 0) {
                 System.out.println("TRUE");
             } else {
-                System.out.println();
+                System.out.println("FALSE);
 
             }
         }
