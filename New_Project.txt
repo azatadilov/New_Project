@@ -1,0 +1,4 @@
+public class New_Project {
+    public static void main(String[] arg) {
+    }
+}
