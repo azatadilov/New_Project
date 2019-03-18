@@ -1,0 +1,11 @@
+import java.util.Scanner;
+
+public class New_Project {
+
+        public static void main(String[] arg) {
+            Scanner scanner = new Scanner(System.in);
+            System.out.println("Введите своё имя, пожалуйста:");
+            String str = "Привет, ";
+            System.out.println(str + scanner.nextLine());
+            }
+        }
