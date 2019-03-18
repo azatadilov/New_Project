@@ -1,0 +1,20 @@
+import java.util.Scanner;
+
+public class New_Project {
+
+        public static void main(String[] arg) {
+            Scanner scanner = new Scanner(System.in);
+            System.out.println("ֲגוהטעו צטפנû הכÿ a, b:");
+            System.out.println("a:");
+            int a = scanner.nextInt();
+            System.out.println("b:");
+            int b = scanner.nextInt();
+            int result = a + b;
+
+            if((result >= 10) && (result <= 20)) {
+                System.out.println("TRUE");
+            } else {
+                System.out.println("FALSE");
+            }
+        }
+    }
