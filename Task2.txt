@@ -1,0 +1,26 @@
+public class New_Project {
+    public static void main(String[] arg) {
+        String str = new String("String");
+        int i = 2019;
+        byte b = 127;
+        long l = 123456789L;
+        float f = 1.123456789134568945613f;
+        double d = 1.123456789134568945613d;
+        boolean boo;
+        boo = false;
+        short short1;
+        short1 = 128;
+        char c = 255;
+
+        System.out.println(str);
+        System.out.println(i);
+        System.out.println(b);
+        System.out.println(l);
+        System.out.println(f);
+        System.out.println(d);
+        System.out.println(boo);
+        System.out.println(short1);
+        System.out.println(c);
+
+    }
+}
